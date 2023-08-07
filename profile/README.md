@@ -1,4 +1,24 @@
-## Hi there 👋
+# .NET Development Team 👨‍💻👩‍💻
+
+Welcome to the 🚀 .NET Development Team's repository! We're passionate about .NET and excited to collaborate on innovative projects.
+
+We create high-quality .NET solutions:
+
+- Build efficient, secure, and scalable apps.
+- Share knowledge and best practices.
+- Contribute to open-source projects.
+
+## Team Members 👥
+
+Connect with us on LinkedIn:
+
+- Sebastian Fabretti ([LinkedIn](https://www.linkedin.com/in/))
+- Tatiana Quarin ([LinkedIn](https://www.linkedin.com/in/))
+- Andres Riveros ([LinkedIn](https://www.linkedin.com/in/))
+- Gonzalo Coradello ([LinkedIn](https://www.linkedin.com/in/))
+- Gastón Ríos ([LinkedIn](https://www.linkedin.com/in/))
+- Ignacio Di Bella ([LinkedIn](https://www.linkedin.com/in/))
+
 
 <!--
 
