@@ -12,7 +12,7 @@ We create high-quality .NET solutions:
 
 Connect with us on LinkedIn:
 
-- Sebastian Fabretti ([LinkedIn](https://www.linkedin.com/in/sebastian-fabretti-a354b8273/)
+- Sebastian Fabretti [LinkedIn](https://www.linkedin.com/in/sebastian-fabretti-a354b8273/)
 - Tatiana Quarin ([LinkedIn](https://www.linkedin.com/in/tatiana-quarin/)
 - Andres Riveros ([LinkedIn](https://www.linkedin.com/in/andres-riveros-731b40178/)
 - Gonzalo Coradello ([LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/gonzalo-coradello/])
