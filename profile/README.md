@@ -16,8 +16,8 @@ Connect with us on LinkedIn:
 - Tatiana Quarin [LinkedIn](https://www.linkedin.com/in/tatiana-quarin/)
 - Andres Riveros [LinkedIn](https://www.linkedin.com/in/andres-riveros-731b40178/)
 - Gonzalo Coradello [LinkedIn](https://www.linkedin.com/in/gonzalo-coradello/)
-- Gastón Ríos [LinkedIn](https://www.linkedin.com/in/gaston-rios/])
-- Ignacio Di Bella [LinkedIn](https://www.linkedin.com/in/ignacio-di-bella/])
+- Gastón Ríos [LinkedIn](https://www.linkedin.com/in/gaston-rios/)
+- Ignacio Di Bella [LinkedIn](https://www.linkedin.com/in/ignacio-di-bella/)
 
 
 <!--
